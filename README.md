@@ -1,5 +1,5 @@
 # Winter Gathering 2024 Hike
-This year we will be walking the following route to Kragstøtten vierwpoint:
+This year we will be walking the following route to Kragstøtten viewpoint:
 
 <img src="hike.png">
 
